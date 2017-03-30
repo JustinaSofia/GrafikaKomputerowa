@@ -1,0 +1,12 @@
+﻿  stdafx.cpp
+  ConsoleApplication1.cpp
+c:\users\krystian\desktop\zaj 3\zadanie 1\consoleapplication1\consoleapplication1.cpp(90): warning C4305: "inicjowanie": obcięcie z "double" do "GLfloat"
+c:\users\krystian\desktop\zaj 3\zadanie 1\consoleapplication1\consoleapplication1.cpp(266): warning C4305: "+=": obcięcie z "double" do "GLfloat"
+c:\users\krystian\desktop\zaj 3\zadanie 1\consoleapplication1\consoleapplication1.cpp(275): warning C4305: "-=": obcięcie z "double" do "GLfloat"
+c:\users\krystian\desktop\zaj 3\zadanie 1\consoleapplication1\consoleapplication1.cpp(386): warning C4305: "argument": obcięcie z "double" do "GLfloat"
+c:\users\krystian\desktop\zaj 3\zadanie 1\consoleapplication1\consoleapplication1.cpp(390): warning C4305: "argument": obcięcie z "double" do "GLfloat"
+c:\users\krystian\desktop\zaj 3\zadanie 1\consoleapplication1\consoleapplication1.cpp(394): warning C4305: "argument": obcięcie z "double" do "GLfloat"
+c:\users\krystian\desktop\zaj 3\zadanie 1\consoleapplication1\consoleapplication1.cpp(398): warning C4305: "argument": obcięcie z "double" do "GLfloat"
+  LINK : nie znaleziono elementu C:\Users\Krystian\Desktop\Zaj 3\Zadanie 1\x64\Debug\ConsoleApplication1.exe ani nie został on skompilowany podczas ostatniego konsolidowania przyrostowego; zostanie wykonana pełna konsolidacja
+  ConsoleApplication1.vcxproj -> C:\Users\Krystian\Desktop\Zaj 3\Zadanie 1\x64\Debug\ConsoleApplication1.exe
+  ConsoleApplication1.vcxproj -> C:\Users\Krystian\Desktop\Zaj 3\Zadanie 1\x64\Debug\ConsoleApplication1.pdb (Full PDB)
