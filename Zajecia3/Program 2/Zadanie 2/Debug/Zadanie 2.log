@@ -1,0 +1,9 @@
+﻿  Zadanie 2.cpp
+c:\users\krystian\documents\grafika\zadanie 2\zadanie 2\zadanie 2.cpp(468): warning C4305: "+=": obcięcie z "double" do "GLfloat"
+c:\users\krystian\documents\grafika\zadanie 2\zadanie 2\zadanie 2.cpp(473): warning C4305: "-=": obcięcie z "double" do "GLfloat"
+c:\users\krystian\documents\grafika\zadanie 2\zadanie 2\zadanie 2.cpp(525): warning C4305: "argument": obcięcie z "double" do "GLfloat"
+c:\users\krystian\documents\grafika\zadanie 2\zadanie 2\zadanie 2.cpp(527): warning C4305: "argument": obcięcie z "double" do "GLfloat"
+c:\users\krystian\documents\grafika\zadanie 2\zadanie 2\zadanie 2.cpp(529): warning C4305: "argument": obcięcie z "double" do "GLfloat"
+c:\users\krystian\documents\grafika\zadanie 2\zadanie 2\zadanie 2.cpp(531): warning C4305: "argument": obcięcie z "double" do "GLfloat"
+  Zadanie 2.vcxproj -> C:\Users\Krystian\Documents\Grafika\Zadanie 2\Debug\Zadanie 2.exe
+  Zadanie 2.vcxproj -> C:\Users\Krystian\Documents\Grafika\Zadanie 2\Debug\Zadanie 2.pdb (Full PDB)
