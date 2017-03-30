@@ -1,0 +1,11 @@
+﻿  stdafx.cpp
+  ConsoleApplication1.cpp
+g:\consoleapplication1\consoleapplication1\consoleapplication1.cpp(90): warning C4305: "inicjowanie": obcięcie z "double" do "GLfloat"
+g:\consoleapplication1\consoleapplication1\consoleapplication1.cpp(266): warning C4305: "+=": obcięcie z "double" do "GLfloat"
+g:\consoleapplication1\consoleapplication1\consoleapplication1.cpp(275): warning C4305: "-=": obcięcie z "double" do "GLfloat"
+g:\consoleapplication1\consoleapplication1\consoleapplication1.cpp(386): warning C4305: "argument": obcięcie z "double" do "GLfloat"
+g:\consoleapplication1\consoleapplication1\consoleapplication1.cpp(390): warning C4305: "argument": obcięcie z "double" do "GLfloat"
+g:\consoleapplication1\consoleapplication1\consoleapplication1.cpp(394): warning C4305: "argument": obcięcie z "double" do "GLfloat"
+g:\consoleapplication1\consoleapplication1\consoleapplication1.cpp(398): warning C4305: "argument": obcięcie z "double" do "GLfloat"
+  ConsoleApplication1.vcxproj -> G:\ConsoleApplication1\Debug\ConsoleApplication1.exe
+  ConsoleApplication1.vcxproj -> G:\ConsoleApplication1\Debug\ConsoleApplication1.pdb (Full PDB)
