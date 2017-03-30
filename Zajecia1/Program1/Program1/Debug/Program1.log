@@ -1,0 +1,5 @@
+﻿  stdafx.cpp
+  Program1.cpp
+c:\users\krystian\documents\grafikakomputerowa\zajecia1\program1\program1\program1.cpp(68): warning C4244: "argument": konwersja z "GLfloat" do "int", możliwa utrata danych
+  Program1.vcxproj -> C:\Users\Krystian\Documents\GrafikaKomputerowa\Zajecia1\Program1\Debug\Program1.exe
+  Program1.vcxproj -> C:\Users\Krystian\Documents\GrafikaKomputerowa\Zajecia1\Program1\Debug\Program1.pdb (Full PDB)
