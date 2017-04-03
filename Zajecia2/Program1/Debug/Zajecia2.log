@@ -1,0 +1,6 @@
+﻿  stdafx.cpp
+  Program1.cpp
+c:\users\krystian\documents\grafikakomputerowa\zajecia2\zajecia2\program1.cpp(34): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\krystian\documents\grafikakomputerowa\zajecia2\zajecia2\program1.cpp(35): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+  Zajecia2.vcxproj -> C:\Users\Krystian\Documents\GrafikaKomputerowa\Zajecia2\Debug\Program1.exe
+  Zajecia2.vcxproj -> C:\Users\Krystian\Documents\GrafikaKomputerowa\Zajecia2\Debug\Program1.pdb (Full PDB)
