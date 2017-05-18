@@ -1,0 +1,9 @@
+﻿  Zajecia9.cpp
+c:\users\krystian\documents\grafikakomputerowa\zajecia9\zajecia9\zajecia9\zajecia9.cpp(277): warning C4244: '+=': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\krystian\documents\grafikakomputerowa\zajecia9\zajecia9\zajecia9\zajecia9.cpp(279): warning C4244: '-=': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\krystian\documents\grafikakomputerowa\zajecia9\zajecia9\zajecia9\zajecia9.cpp(288): warning C4305: '+=': truncation from 'double' to 'GLfloat'
+c:\users\krystian\documents\grafikakomputerowa\zajecia9\zajecia9\zajecia9\zajecia9.cpp(292): warning C4305: '-=': truncation from 'double' to 'GLfloat'
+  VectorMath.cpp
+  Generating Code...
+  Zajecia9.vcxproj -> C:\Users\Krystian\Documents\GrafikaKomputerowa\Zajecia9\Zajecia9\Debug\Zajecia9.exe
+  Zajecia9.vcxproj -> C:\Users\Krystian\Documents\GrafikaKomputerowa\Zajecia9\Zajecia9\Debug\Zajecia9.pdb (Full PDB)
